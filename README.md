@@ -4,8 +4,6 @@ Student **Fakulteta inžinjerskih nauka u Kragujevcu**, trenutno pomeram svoj fo
 
 Želim da naučim kako stvari funkcionišu i da donosim rešenja na probleme koji će pomoći svima.
 
----
-
 ## 🛠️ Oblasti Interesovanja
 
 ### **Veštine**
@@ -13,5 +11,3 @@ Student **Fakulteta inžinjerskih nauka u Kragujevcu**, trenutno pomeram svoj fo
 *   **Baze podataka:** MySQL
 *   **Frameworks:** React, Angular
 *   **Mobile Development:** React Native, Android Studio
-
----
